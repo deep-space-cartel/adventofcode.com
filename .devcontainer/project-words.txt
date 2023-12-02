@@ -1,11 +1,14 @@
 adventofcode
 alexanderilyin
+alexkrechik
 Anson
+cucumberautocomplete
 devcontainer
 devcontainers
 Ilyin
 mkdocs
 pypoetry
+pytest
 Roadmaps
 SGNR
 Toggl

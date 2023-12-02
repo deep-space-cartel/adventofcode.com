@@ -9,7 +9,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.4.0] - 2023-01-1
+## [1.0.0] - 2023-01-02
+
+### Added
+
+* Solution for Day 1 Challenge.
+* Scaffolding for `click` application.
+* Scaffolding for `behave` tests.
+* Scaffolding for `pytest` tests.
+* Rules to ignore compiled python files.
+
+## [0.4.0] - 2023-01-01
 
 ### Fixed
 
@@ -52,7 +62,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Repository using Terraform.
 
 [1]: https://keepachangelog.com
-[unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.4.0...HEAD
+[unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v1.0.0
 [0.4.0]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.4.0
 [0.3.0]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.3.0
 [0.2.0]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.2.0
