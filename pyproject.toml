@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "adventofcode-com"
+version = "0.1.0"
+description = "You know what is beautiful? Effort."
+authors = ["Alexander Ilyin <alexander@ilyin.eu>"]
+license = "WTFPL"
+readme = "README.md"
+packages = [{include = "adventofcode"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[tool.poetry.group.dev.dependencies]
+mkdocs = "^1.5.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
