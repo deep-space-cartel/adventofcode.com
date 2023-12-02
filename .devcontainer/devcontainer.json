@@ -24,12 +24,14 @@
 				"streetsidesoftware.code-spell-checker",
 				"wayou.vscode-todo-highlight",
 				"DavidAnson.vscode-markdownlint",
-				"GitHub.vscode-pull-request-github"
+				"GitHub.vscode-pull-request-github",
+				"alexkrechik.cucumberautocomplete"
 			],
 			"settings": {
 				"editor.renderWhitespace": "all",
 				"files.trimTrailingWhitespace": true,
 				"files.insertFinalNewline": true,
+				"editor.rulers": [80],
 				"python.defaultInterpreterPath": "${workspaceRoot}/.venv/bin/python3.12",
 				"cSpell.customDictionaries": {
 					"project-words": {
